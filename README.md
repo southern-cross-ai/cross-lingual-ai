@@ -1,21 +1,35 @@
 # SouthernCrossAI
 
-Welcome to CrossLingualAI, an innovative neural network-based translation model developed under the auspices of the SouthernCross AI community. Our project aims to bridge language barriers and facilitate seamless communication across different languages using cutting-edge artificial intelligence techniques.
+Welcome to SouthernCrossAI's CrossLingualAI project! 
 
-## About The Project
+**Please improve this README.md page**
 
-SouthernCrossTransAI is designed to provide accurate, context-aware translations, leveraging the latest advancements in deep learning and natural language processing. Our goal is to support a wide range of languages, with a focus on delivering high-quality translations that capture the nuances of each language.
+## Introduction
 
-## Getting Started
+This project aims to explore and understand several core aspects of AI and machine learning projects, including:
 
-To get started with SouthernCrossTransAI, please follow the instructions below:
+- Hardware infrastructure
+- Model infrastructure
+- Data collection
+- GitHub collaboration
+- Communication
+- Hugging Face
+  
+## Educational Resources
 
-### Prerequisites
+To help get started or to deepen your understanding, here are some recommended videos:
 
-- Python 3.8 or later
-- PyTorch 1.8 or later
-- Transformers library
+- [Understanding AI and Machine Learning Basics](https://www.youtube.com/watch?v=kCc8FmEb1nY) - A comprehensive guide to the fundamentals of AI and machine learning.
+- [Deep Dive into Model Infrastructure](https://www.youtube.com/watch?v=ISNdQcPhsts) - A detailed look at setting up and managing the infrastructure for machine learning models.
 
-### Installation
+## Project Goals
 
-1. Clone the repository:
+The main objectives of the SouthernCrossAI project include:
+
+- **Hardware Infrastructure:** Learning about the physical and virtual resources required for AI computations.
+- **Model Infrastructure:** Understanding how to structure, manage, and scale AI models.
+- **Data Collection:** Strategies and best practices for gathering and processing data.
+- **GitHub Collaboration:** Utilizing GitHub for project management, version control, and team collaboration.
+- **Communication:** Enhancing team communication and project documentation.
+- **Hugging Face:** Exploring Repo Pages.
+
