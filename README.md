@@ -1,6 +1,6 @@
-# SouthernCrossTransAI
+# SouthernCrossAI
 
-Welcome to SouthernCrossTransAI, an innovative neural network-based translation model developed under the auspices of the SouthernCross AI community. Our project aims to bridge language barriers and facilitate seamless communication across different languages using cutting-edge artificial intelligence techniques.
+Welcome to CrossLingualAI, an innovative neural network-based translation model developed under the auspices of the SouthernCross AI community. Our project aims to bridge language barriers and facilitate seamless communication across different languages using cutting-edge artificial intelligence techniques.
 
 ## About The Project
 
